@@ -7,17 +7,17 @@ Project Goal: This data visualization dashboard aims to provide a comprehensive 
 
 Project Description :- The Washington real estate market dashboard offers a user-friendly and visually appealing experience, presenting key metrics through clear charts and graphs with an easy-on-the-eyes color scheme. Designed for simplicity and informativeness, the interactive dashboard allows users to explore detailed data with clear labels and tooltips, including :-
 
-- Average selling prices by month and year
-- Geographic distribution of sales
-- Distribution of houses by price range and condition
-- Heatmap of house prices vs. condition
-- Average price by number of bedrooms and bathrooms
-- The dashboard allows users to filter data by date range, price range, condition, location, SqFT lot, SQft living, and year built. making it easy to identify trends and patterns. For example, the dashboard
+- Average selling prices by month and year.
+- Geographic distribution of sales.
+- Distribution of houses by price range and condition.
+- Heatmap of house prices vs. condition.
+- Average price by number of bedrooms and bathrooms.
+- The dashboard allows users to filter data by date range, price range, condition, location, SqFT lot, SQft living, and year built. making it easy to identify trends and patterns. For example, the dashboard.
 
 shows that :-
 
 - The average selling price of houses in Washington, D.C. has been increasing steadily over the past year.
-- Houses in the $400,000 to $600,000 price range are the most common type of sale.
+- Houses in the $400,000 to $800,000 price range are the most common type of sale.
 - Houses in good condition tend to sell for more than houses in fair or poor condition.
 - This information can be used by real estate agents to target their marketing efforts, price houses more competitively, and identify areas with the most potential for sales.
 
@@ -27,6 +27,17 @@ Overall, this dashboard is a valuable tool for anyone who wants to gain insights
 https://public.tableau.com/app/profile/ullas.m8797/viz/Washingtonhousesales_17035883373480/washingtonhousesales
 
 ### Table of contents
+- [Goal and Description](#goal-and-description)
+- [Dashboard Link](#dashboard-link)
+- [Business Understanding](#business-understanding)
+- [Key Features](#key-features)
+- [Technologies](#technologies)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Recommendations for Stakeholders](#recommendations-for-stakeholders)
+- [Challenges](#challenges)
+- [Future Enhancements](#future-enhancements)
+- [Status](#status)
+- [References](#references)
 
 
 ### Business understanding
@@ -97,7 +108,7 @@ Here are some of the key takeaways from the dashboard :-
 Some potential challenges faced while creating this dashboard includes :-
 
 Data Challenges :-
-- Data cleaning - removing unwanted data & null values, filling blank values, formating and converting currency changed values.
+- Data cleaning - Removing unwanted data & null values, filling blank values, formating and converting currency changed values.
 - Data accuracy :- Ensuring the accuracy and completeness of the data was crucial for reliable analysis.
 - Data Integration :- Combine data from multiple sources, such as real estate listings, maps. Integrating and cleaning data was challenging.
 
