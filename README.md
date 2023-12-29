@@ -113,18 +113,19 @@ Data Challenges :-
 - Data Integration :- Combine data from multiple sources, such as real estate listings, maps. Integrating and cleaning data was challenging.
 
 Visualization Challenges :-
+- Color and Design.
 - Not to overload information.
 - Aligning with business goals. 
-- Color and Design.
 - Visualization :- Choosing the right charts and graphs to effectively represent complex data and avoid overwhelming the user was difficult.
 - User interface :- The dashboard needs to be easy to use for all. The design needs to be sure that the layout is intuitive and that the user can easily find the information they need.
 
 ### Future enhancements
 
-- Search functionality :- The dashboard could be enhanced with a search function that allows users to quickly find specific data points or neighborhoods of interest.
-- Comparison dashboard :- Create a separate dashboard that allows users to compare house sales data for different cities or regions.
 - Mobile-friendly design.
 - Social media integration.
+- Comparison dashboard :- Create a separate dashboard that allows users to compare house sales data for different cities or regions.
+- Search functionality :- The dashboard could be enhanced with a search function that allows users to quickly find specific data points or neighborhoods of interest.
+
 
 ### Status
 Completed
