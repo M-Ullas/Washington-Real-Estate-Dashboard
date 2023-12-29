@@ -115,8 +115,8 @@ Data Challenges :-
 Visualization Challenges :-
 - Not to overload information.
 - Aligning with business goals. 
-- Visualization :- Choosing the right charts and graphs to effectively represent complex data and avoid overwhelming the user was difficult.
 - Color and Design.
+- Visualization :- Choosing the right charts and graphs to effectively represent complex data and avoid overwhelming the user was difficult.
 - User interface :- The dashboard needs to be easy to use for all. The design needs to be sure that the layout is intuitive and that the user can easily find the information they need.
 
 ### Future enhancements
