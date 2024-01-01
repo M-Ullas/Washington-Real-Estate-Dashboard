@@ -41,7 +41,7 @@ https://public.tableau.com/app/profile/ullas.m8797/viz/Washingtonhousesales_1703
 
 
 ### Business understanding
-This data visualization dashboard aims to provide insights into the Seattle housing market, specifically focusing on house sales data from July 2011 to July 2023. By analyzing factors like average selling price, location, house condition, and year built, the dashboard seeks to uncover trends and patterns that could be valuable for real estate professionals, investors, and homeowners.
+This data visualization dashboard aims to provide insights into the Seattle housing market, specifically focusing on house sales data from 2014 to 2015. By analyzing factors like average selling price, location, house condition, and year built, the dashboard seeks to uncover trends and patterns that could be valuable for real estate professionals, investors, and homeowners.
 
 Goals :-
 - Gain a comprehensive understanding of the Seattle housing market over the past 12 years.
